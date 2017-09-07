@@ -1,0 +1,22 @@
+{
+  "name": "es-test-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "elasticsearch": "^13.3.1",
+    "moment": "^2.18.1",
+    "momentjs": "^2.0.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha-co": "^1.17.2"
+  }
+}
